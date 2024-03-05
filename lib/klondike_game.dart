@@ -5,7 +5,7 @@ import 'package:flame/flame.dart';
 import 'package:flame/game.dart';
 import 'package:flutter/painting.dart';
 import 'package:klondike/components/foundation.dart';
-import 'package:klondike/components/pile.dart';
+import 'package:klondike/components/tableau.dart';
 import 'package:klondike/components/stock.dart';
 import 'package:klondike/components/waste.dart';
 
