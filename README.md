@@ -1,6 +1,6 @@
 # klondike card game
 
-See result at: https://klondike-nickf2k.web.app/
+See the result at: https://klondike-nickf2k.web.app/
 
 ## How to run
 
